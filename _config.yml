@@ -7,7 +7,7 @@ plugins:
   - jekyll-coffeescript
   - jekyll-remote-theme
 
-remote_theme: tool-of-lore/jekyll-any-theme
+remote_theme: tool-of-lore/jekyll-any-theme@v0.1.1
 
 defaults:
   -
