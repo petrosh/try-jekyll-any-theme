@@ -6,3 +6,5 @@ permalink: /
 # Home
 
 ok
+
+{{ site.data | inspect }}
