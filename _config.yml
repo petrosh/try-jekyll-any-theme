@@ -11,7 +11,7 @@ defaults:
       # fluid: true
       # navbar: top
       # theme: dnd
-      font_face: fonts/scala/fonts.css
+      font_face: scala/fonts.css
       sidebar:
         side: right
         # width: 4
