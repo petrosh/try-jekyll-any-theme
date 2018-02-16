@@ -1,12 +1,6 @@
 title: Jekyll any theme 2
 description: Jekyll any theme Dos – Customizable Bootstrap 4
 
-plugins:
-  - jekyll-default-layout
-  - jekyll-github-metadata
-  - jekyll-coffeescript
-  - jekyll-remote-theme
-
 remote_theme: tool-of-lore/jekyll-any-theme@v0.1.1a
 
 defaults:
