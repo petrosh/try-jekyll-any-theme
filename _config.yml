@@ -1,7 +1,7 @@
 title: Jekyll any theme 2
 description: Jekyll any theme Dos – Customizable Bootstrap 4
 
-remote_theme: tool-of-lore/jekyll-any-theme@v0.1.1a
+remote_theme: tool-of-lore/jekyll-any-theme@v0.1.2
 
 defaults:
   -
